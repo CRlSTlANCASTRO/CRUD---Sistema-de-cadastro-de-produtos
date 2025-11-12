@@ -17,7 +17,10 @@
    python manage.py migrate
 5. Inicie o servidor:
    python manage.py runserver
-6. Abra no navegador:
+
+   obs: o caminho para utilizar o comendo é cd meu_projeto
+   
+7. Abra no navegador:
    http://127.0.0.1:8000/produtos/
 
 ## Endpoints principais
