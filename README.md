@@ -1,4 +1,5 @@
 # Produtos - CRUD (Django)
+<img width="1348" height="733" alt="projeto" src="https://github.com/user-attachments/assets/a285cc16-4e4f-4447-b52f-7393f180fbb3" />
 
 ## Requisitos
 - Python 3.10+
